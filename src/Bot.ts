@@ -1,7 +1,7 @@
 import { Client, ClientOptions } from "discord.js";
 import ready from "./listeners/ready";
 
-const token: string = "NDE0MjIxNTI3Njk4MTEyNTEy.G6gbD4.0cXAOJKKcTfnmtqbteM6SUGeBSjlOoYYAndzMA";
+const token: string = "";
 
 console.log("Bot is starting...");
 
